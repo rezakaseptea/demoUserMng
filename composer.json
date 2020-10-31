@@ -1,0 +1,19 @@
+{
+    "name": "demo/usersmanagement",
+    "description": "demo package users managements",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reza Irwanto",
+            "email": "reza.irwantoo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Demo\\Usersmanagement\\": "src/"
+        }
+    },
+    "require": {}
+}
